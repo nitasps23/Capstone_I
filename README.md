@@ -4,8 +4,8 @@
 
 #### Steps:
 > 1. Data Exploration and Structure:
-      - Confirmed that the dataset is clean with no missing values.
-      - Analyzed the data structure, identifying the variables to be used in the analysis.
+>    - Confirmed that the dataset is clean with no missing values.
+      * Analyzed the data structure, identifying the variables to be used in the analysis.
 > 2. Exploratory Data Analysis (EDA):
       - Charges: Assessed distribution, summary statistics, and identified charges as the dependent variable.
       - Age: Discretized age into groups, analyzed distribution, and examined the correlation between age and charges.
