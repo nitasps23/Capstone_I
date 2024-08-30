@@ -1,4 +1,4 @@
-#### Capstone I Project: Medical Insurance Cost Analysis
+#### Capstone I Project: Medical Insurance Cost Analysis (Python)
 #### Objective:
 > This project aims to analyze the key factors influencing medical costs in the U.S., given the substantial financial burden healthcare imposes on individuals and families. Using a dataset from Kaggle with 2,772 observations and 7 variables (Age, Sex, BMI, Children, Smoker, Region, Charges), the goal is to identify the top drivers of medical expenses.
 
